@@ -112,9 +112,9 @@ nano PARTICIPANTES.md
 **Exemplo:**
 
 ```markdown
-- **João Silva** - João Silva - 13/01/2026
-- **Maria Santos** - Maria Santos - 13/01/2026
-- **Seu Nome Aqui** - Seu nome - 13/01/2026
+- **João Silva** - @joaosilva - 13/01/2026
+- **Maria Santos** - @mariasantos - 13/01/2026
+- **Seu Nome Aqui** - @seunome - 13/01/2026
 ```
 
 **Dica:** Respeite o formato e a indentação para manter o arquivo organizado!

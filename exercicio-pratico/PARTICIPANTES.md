@@ -17,7 +17,7 @@ Bem-vindo! Adicione seu nome abaixo seguindo o formato da lista.
   Copie o formato acima e preencha com suas informações
 -->
 
-- **Thiago Pinto** - Thiago Pinto - 13/01/2026
+- **Thiago Pinto** - @thiagoturini - 13/01/2026
 
 <!-- 
   👆 ADICIONE SEU NOME ACIMA DESTA LINHA 👆
