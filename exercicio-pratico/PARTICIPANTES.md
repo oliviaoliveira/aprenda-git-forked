@@ -1,0 +1,34 @@
+# 👥 Lista de Participantes do Curso Git
+
+Bem-vindo! Adicione seu nome abaixo seguindo o formato da lista.
+
+## 📝 Formato
+
+```
+- **Nome Completo** - @usuario-github - Data
+```
+
+---
+
+## 🎓 Participantes
+
+<!-- 
+  👇 ADICIONE SEU NOME ABAIXO DESTA LINHA 👇
+  Copie o formato acima e preencha com suas informações
+-->
+
+- **Thiago Pinto** - Thiago Pinto - 13/01/2026
+
+<!-- 
+  👆 ADICIONE SEU NOME ACIMA DESTA LINHA 👆
+-->
+
+---
+
+## 📊 Estatísticas
+
+Total de participantes: 1
+
+---
+
+**Instruções completas:** Veja o arquivo [README.md](README.md) nesta pasta para o passo a passo completo!
