@@ -18,6 +18,7 @@ Bem-vindo! Adicione seu nome abaixo seguindo o formato da lista.
 -->
 
 - **Thiago Pinto** - @thiagoturini - 13/01/2026
+- **Daniel Cunha** - @dany3cunha - 14/01/2026
 - **Mário Ferreira** - @alfa42853 - 14/01/2026
 
 <!-- 
@@ -28,7 +29,7 @@ Bem-vindo! Adicione seu nome abaixo seguindo o formato da lista.
 
 ## 📊 Estatísticas
 
-Total de participantes: 1
+Total de participantes: 2
 
 ---
 
