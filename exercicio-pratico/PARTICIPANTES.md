@@ -18,6 +18,8 @@ Bem-vindo! Adicione seu nome abaixo seguindo o formato da lista.
 -->
 
 - **Thiago Pinto** - @thiagoturini - 13/01/2026
+- **Roberto Côrte** - @robertocorte - 14/01/2026
+-
 
 <!-- 
   👆 ADICIONE SEU NOME ACIMA DESTA LINHA 👆
